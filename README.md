@@ -1,7 +1,7 @@
-Dream Bus
+<center><h1>Dream Bus</h1></center>
 This project is a web application that combines the power of Next.js for the frontend and Django for the backend. It aims to demonstrate the integration of these two technologies to create a modern, fast, and interactive web application. The project leverages the strengths of both frameworks to provide a seamless user experience.
 
-Features
+<h3>Features</h3>
 Next.js Frontend: Utilizes Next.js, a React framework, to build the frontend. This enables server-side rendering, efficient client-side routing, and an optimized development experience.
 
 Django Backend: Integrates Django, a high-level Python web framework, to handle backend functionalities. Django offers robust database management, URL routing, and powerful data processing capabilities.
@@ -15,13 +15,13 @@ Responsive Design: Ensures that the application is responsive and works well on 
 
 Prerequisites
 Before running this project, ensure you have the following installed:
-
-Node.js and npm (for Next.js frontend)
-Python and pip (for Django backend)
-A compatible database (such as PostgreSQL, MySQL, or SQLite) for Django
-Getting Started
-Clone the Repository: Start by cloning this repository to your local machine.
-
+<ul>
+<li>Node.js and npm (for Next.js frontend)</li>
+<li>Python and pip (for Django backend)</li>
+<li>A compatible database (such as PostgreSQL, MySQL, or SQLite) for Django</li>
+<li>Getting Started</li>
+<li>Clone the Repository: Start by cloning this repository to your local machine.</li>
+</ul>
 Frontend Setup:
 
 Navigate to the frontend directory.
