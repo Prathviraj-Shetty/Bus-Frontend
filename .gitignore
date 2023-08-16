@@ -1,0 +1,12 @@
+backend/django_project/__pycache__/
+backend/app/__pycache__/
+backend/app/migrations/__pycache__/
+
+# Environments 
+.env 
+.venv 
+env/ 
+venv/ 
+ENV/ 
+env.bak/ 
+venv.bak/ 
