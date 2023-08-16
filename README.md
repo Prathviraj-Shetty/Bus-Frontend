@@ -1,5 +1,5 @@
 <center><h1>Dream Bus</h1></center>
-This project is a web application that combines the power of Next.js for the frontend and Django for the backend. It aims to demonstrate the integration of these two technologies to create a modern, fast, and interactive web application. The project leverages the strengths of both frameworks to provide a seamless user experience.
+A user-friendly online platform that simplifies the process of reserving bus tickets for travelers. With a wide range of bus operators and routes, users can easily search for available buses, view seat availability, and book tickets in real-time. The system securely manages user profiles, payment transactions, and ticket confirmations, ensuring a seamless booking experience
 
 <h3>Features</h3>
 Next.js Frontend: Utilizes Next.js, a React framework, to build the frontend. This enables server-side rendering, efficient client-side routing, and an optimized development experience.
@@ -13,7 +13,7 @@ Authentication and Authorization: Implements user authentication and authorizati
 Responsive Design: Ensures that the application is responsive and works well on different screen sizes and devices. CSS frameworks like Bootstrap or Tailwind CSS can be used for styling.
 
 
-Prerequisites
+<h3>Prerequisites</h3>
 Before running this project, ensure you have the following installed:
 <ul>
 <li>Node.js and npm (for Next.js frontend)</li>
@@ -22,12 +22,13 @@ Before running this project, ensure you have the following installed:
 <li>Getting Started</li>
 <li>Clone the Repository: Start by cloning this repository to your local machine.</li>
 </ul>
-Frontend Setup:
+
+<h3>Frontend Setup:</h3>
 
 Navigate to the frontend directory.
 Run npm install to install the required dependencies.
 Run npm run dev to start the development server for the Next.js frontend.
-Backend Setup:
+<h3>Backend Setup:</h3>
 
 Navigate to the backend directory.
 Create a virtual environment: python -m venv venv
